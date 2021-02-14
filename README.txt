@@ -3,6 +3,7 @@ Batoul Diab
 
 Download the dataset used in project from the bellow link:
 https://www.csc.kth.se/~heydarma/Datasets.html
+(it will only work with it, or the project must be editted)
 
 About The Graphic User Interface:
 
@@ -24,6 +25,7 @@ In the GUI developed for the project, there are two options for user to use:
 	
 	a- User Presses The "Run The Testing Data" button.
 	b- User Chooses The Testing Data Folder as prompted.
+	   (You can choose any images from the training set and put them together in a single folder, but NEVER remove them from the Training folder)
 	c- User Chooses The Training Data Folder as prompted.
 
 	Finding the resulted accuracy for the corresponding Testing and Training data will be 
