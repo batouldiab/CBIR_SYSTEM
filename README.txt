@@ -1,6 +1,8 @@
 This is an original work project for the image processing course done by:
 Batoul Diab
 
+Download the dataset used in project from the bellow link:
+https://www.csc.kth.se/~heydarma/Datasets.html
 
 About The Graphic User Interface:
 
