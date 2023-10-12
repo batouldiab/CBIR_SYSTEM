@@ -28,7 +28,7 @@ This image processing system is designed to classify animal images using a combi
 ## How to Use:
 
 1. **Downloading the Dataset:**
-   - Download the dataset used in the project from the following link: [Animal Image Dataset](https://www.csc.kth.se/~heydarma/Datasets.html).
+   - Download the dataset used in the project from the following link: [Animal Image Dataset](https://www.csc.kth.se/~heydarma/Datasets.html) (or use the animal_database folder already uploaded in this directory).
    - **Note:** The system will only work with this specific dataset, or the project must be edited accordingly.
 
 2. **Graphic User Interface (GUI) Options:**
